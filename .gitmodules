@@ -1,0 +1,6 @@
+[submodule "JoshCodes.Web"]
+	path = JoshCodes.Web
+	url = git@github.com:joshcodes/JoshCodes.Web.git
+[submodule "JoshCodes.Web.Testing.Unit"]
+	path = JoshCodes.Web.Testing.Unit
+	url = git@github.com:joshcodes/JoshCodes.Web.Testing.git
