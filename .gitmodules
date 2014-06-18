@@ -4,3 +4,6 @@
 [submodule "JoshCodes.Web.Testing.Unit"]
 	path = JoshCodes.Web.Testing.Unit
 	url = git@github.com:joshcodes/JoshCodes.Web.Testing.git
+[submodule "JoshCodes.Core"]
+	path = JoshCodes.Core
+	url = git@github.com:joshcodes/JoshCodes.Core.git
